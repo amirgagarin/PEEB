@@ -61,11 +61,11 @@
       37,
       38
     ],
-    "visible_layers": "fffffff_7fffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SOS.kicad_prl",
+    "filename": "Water.kicad_prl",
     "version": 3
   },
   "project": {
